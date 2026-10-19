@@ -1,3 +1,5 @@
-AuroraLink is a personal recovered and extended phone/watch project. The recovered app does not provide a verified separate original author name, so no author identity is invented.
+Petal Link (formerly AuroraLink) is a personal recovered and extended phone/watch project. The recovered app does not provide a verified separate original author name, so no author identity is invented.
 
 AndroidX is credited to the Android Open Source Project/Google and contributors. Google Play services Wearable is provided by Google under its applicable SDK terms. Samsung, Galaxy Watch and Galaxy Buds names identify external products; Samsung software is not republished in these release assets. Runtime dependency notices are retained in their artifacts. App-specific source and modifications are supplied in the attached source ZIP.
+
+Petal family palette integration and the connected-bloom icon are original personal-edition additions. Package and protocol names remain compatible with the earlier AuroraLink preview.
