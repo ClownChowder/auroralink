@@ -2,7 +2,9 @@
 
 Personal Android phone and Wear OS companion, formerly AuroraLink, for Bluetooth Buds status and companion setup.
 
-Current release: [0.3.2-preview · Watch themes](https://github.com/ClownChowder/auroralink/releases/tag/v0.3.2-preview), published October 19, 2026.
+Current release: [0.3.3-preview · Privacy health update](https://github.com/ClownChowder/auroralink/releases/tag/v0.3.3-preview), published October 23, 2026.
+
+Phone and watch now explicitly disable legacy/cloud backup and exclude app storage from device transfer. This keeps watch-node preferences out of automatic app backup; existing local settings are preserved. Packaged privacy gates, 10 JVM tests, one phone launcher test and three watch UI tests passed on an owned API37 emulator. Lint has zero errors and inherited warnings. Physical Bluetooth/Wear transport, OEM backup behavior, battery/thermal and live accessibility remain unqualified. See the attached `CHECKS.txt`.
 
 ## Current features
 
